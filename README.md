@@ -10,7 +10,8 @@
 
 ## 什么是wython？
 
-$$Java + python = jython  ;  word + python = wython$$  
+$$Java + python = jython$$  
+$$word + python = wython$$
 
 ~~显然如果我将其命名为python_word等，这看起来像python中解析word的库。~~  
 word可以看成加强版的文本文件，因为其中可以包含图片等元素。wython希望充分利用这些特点，使代码中元素多元化。  

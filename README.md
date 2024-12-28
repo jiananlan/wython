@@ -1,9 +1,7 @@
 # wython
 
----
 ## 安装与运行
 
----
 使用pip安装wython。  
 `pip install wython`  
 运行wython。  
@@ -12,7 +10,6 @@
 
 ## 什么是wython？
 
----
 $$Java + python = jython$$  
 $$word + python = wython$$  
 
